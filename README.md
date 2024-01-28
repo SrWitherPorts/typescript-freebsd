@@ -1,9 +1,9 @@
-# dependencies
+# Dependencies
 ```
 node20
 ```
 
-# build and install
+# Build and install
 ```
 make
 make install
